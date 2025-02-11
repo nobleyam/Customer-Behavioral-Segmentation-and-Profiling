@@ -1,0 +1,8 @@
+import math
+# for number in range(20):
+#     print('{0:<3} to power of 3 is equivalent to: {1:<5.2f}'.format(number, number**3 / 3))
+#casting: converting datatype to each other
+pi = math.pi
+print('{:.2f}'.format(pi))
+print(type(pi))
+print(int(pi))
